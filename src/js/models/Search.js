@@ -11,7 +11,7 @@ export default class Search{
             console.log(this.result);
             
         }catch(error){
-            alert(error)
+            alert(error);
         }
 
     }
